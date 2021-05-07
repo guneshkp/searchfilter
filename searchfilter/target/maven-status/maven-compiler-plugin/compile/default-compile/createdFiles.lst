@@ -1,0 +1,9 @@
+com/studentporta/crus/entity/FilterJobRequest.class
+com/studentporta/crus/entity/Job.class
+com/studentporta/crus/service/JobService.class
+com/studentporta/crus/entity/SearchRequestAccepted.class
+com/studentporta/crus/entity/Filter.class
+com/studentporta/crus/dao/JobRepository.class
+com/studentporta/crus/entity/SearchResponse.class
+com/studentporta/crus/controller/JobController.class
+com/studentporta/crus/StudentPortalAppCrudApplication.class

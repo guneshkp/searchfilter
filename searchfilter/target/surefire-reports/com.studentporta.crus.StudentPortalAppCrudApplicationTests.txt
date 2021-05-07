@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.studentporta.crus.StudentPortalAppCrudApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.514 s <<< FAILURE! - in com.studentporta.crus.StudentPortalAppCrudApplicationTests
+test_1(com.studentporta.crus.StudentPortalAppCrudApplicationTests)  Time elapsed: 0.318 s  <<< FAILURE!
+java.lang.AbstractMethodError: Receiver class io.restassured.internal.RequestSpecificationImpl does not define or inherit an implementation of the resolved method 'abstract java.lang.Object invokeMethod(java.lang.String, java.lang.Object)' of interface groovy.lang.GroovyObject.
+	at com.studentporta.crus.StudentPortalAppCrudApplicationTests.test_1(StudentPortalAppCrudApplicationTests.java:56)
+
